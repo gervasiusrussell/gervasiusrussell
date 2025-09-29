@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gervasius Russell
 
 🎓 **Data Science Student @ BINUS University**
+
 💡 Aspiring Data Scientist | Machine Learning Enthusiast | Data-Driven Problem Solver
 
 ---
