@@ -28,7 +28,7 @@ Currently, I’m working on projects ranging from **classification tasks, image 
 
 * 🩺 **[Obesity Prediction Using Machine Learning](https://github.com/gervasiusrussell/Obesity-Prediction-Using-Machine-Learning)** — Machine learning model with Streamlit deployment.
 * 🌿 **[Pistachio Image Denoising (Autoencoder & GAN)](https://github.com/gervasiusrussell/Autoencoder-for-Image-Denoising)** — Deep learning for image enhancement.
-* 🏨 **[Hotel Booking Classification (RF vs XGBoost)](https://github.com/gervasiusrussell/Hotel-Booking-Cancellation-Prediction)** — Comparative ML project with OOP refactor.
+* 🏨 **[Hotel Booking Classification](https://github.com/gervasiusrussell/Hotel-Booking-Cancellation-Prediction)** — Comparative ML project with OOP refactor.
 * 🔐 **[LSTM for Air Quality Prediction](https://github.com/gervasiusrussell/LSTM-for-Air-Quality-Prediction)** — LSTM Deep Learning project for predicting air quality.
 
 ---
