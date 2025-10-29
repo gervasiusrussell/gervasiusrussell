@@ -21,7 +21,7 @@ Currently, I’m working on projects ranging from **classification tasks, image 
 
 ## 📄 My CV
 You can view and download my latest CV here:  
-[![CV](https://img.shields.io/badge/View%20CV-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1KF-x5eifNwMk8qtta9aJlJ2TM8mmfn8Y/view?usp=sharing)
+[![CV](https://img.shields.io/badge/View%20CV-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/1PKoY2hIhZZIks8hkJA-l8AvZnalXc20x/view?usp=sharing)
 
 ---
 
